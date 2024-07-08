@@ -1,3 +1,4 @@
+//Java kullanarak kullanıcıdan aldığı ödev ve sınav notlarını işleyerek toplam notu ve yüzde hesaplayan bir program geliştirdim.
 import java.util.Scanner;
 
 public class HesapProjesi {
